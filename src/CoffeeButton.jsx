@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import coffeeImage from './coffee.png';
-import buyCoffee from './buyCoffee.png';
 
 function CoffeeButton() {
   const [showCoffeeModal, setShowCoffeeModal] = useState(false);
