@@ -43,7 +43,6 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1 className="title"></h1>
       <p className="description">
         輸入 1-50 的任一數字，按下確認
       </p>
